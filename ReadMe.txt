@@ -1,4 +1,4 @@
-#Star Wars Game to Aid Spasticity Therapy
+# Star Wars Game to Aid Spasticity Therapy
 
 ## Project Purpose
 
