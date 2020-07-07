@@ -30,4 +30,4 @@ Now the first level begins. The goal is to shoot the Jawas until they are all de
 ![alt text](SpasticityGame.png?raw=true)
 
 ## Final Note
-I created one level of this game to test my brothers' reaction to the system and determine whether I should continue with the full project. I showed him one level and he was very enthusiastic about it so I will continue to improve the game and add more levels.  
+I created one level of this game to test my brothers' reaction to the system and determine whether I should continue with the full project. I showed him one level and he was very enthusiastic about it so I will continue to improve the game and add more levels. My presentation on the project can be downloaded from StarWarsGamePresentationVideo.mp4.  
